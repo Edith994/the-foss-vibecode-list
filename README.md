@@ -1,48 +1,81 @@
 # The FOSS&Vibecode List
 
-Welcome to the **FOSS&Vibecode List**! This repository is dedicated to tracking and curating a collection of **awesome open-source** projects alongside **vibe-coded/AI-assisted** projects. Our goal is to create a space where both traditional and innovative, AI-enhanced projects are showcased and celebrated.
+Welcome to **The FOSS&Vibecode List** — a curated collection of software spanning two development cultures:
 
-Whether you're into classic open-source, or you're fascinated by the future of vibe coding, this list has something for you!
+- **Traditional free and open-source software (FOSS)**
+- **AI-assisted, AI-native, or vibe-coded projects**
+
+The goal of this repository is to document how software is being built across different eras of development culture: from long-established open-source craftsmanship to projects shaped by modern language-model workflows.
+
+Whether you're interested in foundational open-source infrastructure or the emerging world of AI-assisted software creation, this list aims to provide useful examples of both.
 
 ## Project Organization
 
 This repository is organized into two main files:
 
-- **`foss.md`**: This file tracks **traditional open-source projects**. These are projects built by the community with a focus on transparency, collaboration, and the open-source ethos.
-  
-- **`vibe.md`**: This file tracks **vibe-coded/AI-assisted projects**. These projects were either completely coded with the help of AI or involve substantial AI assistance in the development process. We believe this is the next frontier in software development!
+- **`foss.md`** → traditional open-source projects developed primarily through conventional human-led engineering workflows
+- **`vibe.md`** → projects where AI assistance, LLM-native workflows, or vibe-coding materially shaped development, architecture, or iteration
 
-Feel free to browse both files to explore curated lists of projects in each category.
+Some projects may sit between categories. Ambiguity is expected, and thoughtful classification is part of the purpose of this list.
 
-## How to Contribute
+## Contribution Guide
 
-We welcome contributions! If you know of any awesome open-source or vibe-coded projects that should be added to the list, feel free to follow these steps:
+Contributions are welcome.
 
-1. **Fork this repository**.
-2. **Clone your fork** to your local machine.
-3. **Edit the appropriate file** (`foss.md` for open-source or `vibe.md` for vibe-coded projects).
-4. **Submit a pull request**.
+You can contribute by:
 
-In your pull request:
-- Please **add the project to the list in the appropriate section**.
-- Provide a **brief description** of the project and why you think it's awesome (1–2 sentences).
-- Include the **project's link** (GitHub repo, website, etc.).
+1. Forking this repository
+2. Editing the appropriate file (`foss.md` or `vibe.md`)
+3. Opening a pull request
 
-We encourage **clear and concise descriptions**, as well as **projects that actively contribute to the developer ecosystem**.
+Please include:
 
-## Guidelines
+- Project name
+- Official website
+- Source repository
+- Short description
+- Why the project belongs in the suggested category
 
-- **FOSS Projects**: These should adhere to standard open-source practices, with a public repository and a clear license (MIT, GPL, Apache, etc.).
-- **VibeCode Projects**: These should either be substantially coded with AI or utilize AI in a meaningful way in their development process. Projects built with tools like Copilot, OpenAI Codex, or other AI coding assistants are welcome here!
-  
-## Why Contribute?
+Issue templates are available for:
 
-- **Showcase amazing projects**: Help others discover cool open-source and vibe-coded projects that might be under the radar.
-- **Support innovation**: Highlight the intersection of traditional open-source and cutting-edge AI technology.
-- **Contribute to the future**: This list is about curating the most exciting projects, and your contributions will help shape the landscape of future tech.
+- **Project submissions**
+- **Category discussions / disputes**
+
+## Inclusion Guidelines
+
+### foss.md
+
+Projects generally belong here if they are:
+
+- Open source
+- Publicly maintained
+- Primarily developed through traditional engineering workflows
+- Representative of established open-source culture
+
+### vibe.md
+
+Projects generally belong here if:
+
+- AI materially accelerated development
+- Maintainers openly discuss AI-assisted coding
+- LLM tools influenced implementation or architecture
+- The project reflects AI-native software development patterns
+
+Inclusion does **not** require proof that every line of code was AI-generated.
+
+## Why this repository exists
+
+Software development is changing quickly.
+
+This project aims to capture that transition by documenting both:
+
+- foundational open-source software
+- emerging projects shaped by AI-assisted workflows
+
+The goal is not strict purity, but useful comparison.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Contributions are welcomed under the same terms.
+This repository is licensed under the [MIT License](LICENSE).
 
-If you do decide to fork this project please at least link back to this one!
+If you fork this project, please link back to the original repository.
