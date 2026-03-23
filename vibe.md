@@ -4,18 +4,30 @@
 - **GitHub Repo**: [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
 - **Description**: OpenClaw is a modern game engine built with substantial assistance from AI-powered coding assistants. It focuses on creating fast-paced, physics-based 2D games. The project utilizes machine learning to help generate optimizations for rendering, physics calculations, and procedural level design.
 
-## [Copilot for Coders](https://copilot.github.com/)
-- **GitHub Repo**: [https://github.com/github/copilot](https://github.com/github/copilot)
-- **Description**: GitHub Copilot is an AI-powered code completion tool built by GitHub in collaboration with OpenAI. It assists developers by suggesting entire lines of code or entire functions, improving productivity and reducing the time needed to write code.
+## [Open Interpreter](https://openinterpreter.com/)
+- **GitHub Repo**: [https://github.com/OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+- **Description**: Open Interpreter is an open-source project that allows language models to execute code locally on a user's machine. It became popular as an example of rapid LLM-native development and AI-assisted software iteration.
 
-## [TabNine](https://www.tabnine.com/)
-- **GitHub Repo**: [https://github.com/codota/TabNine](https://github.com/codota/TabNine)
-- **Description**: TabNine is an AI-based code completion tool powered by GPT-3. It helps developers write code faster by providing suggestions as you type, making it easier to stay in the flow of coding and reducing context-switching.
+## [GPT Engineer](https://gptengineer.app/)
+- **GitHub Repo**: [https://github.com/AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+- **Description**: GPT Engineer generates codebases from natural language prompts and represents a strong example of software emerging directly from AI-assisted development culture.
 
-## [Scribe](https://www.scribeapp.com/)
-- **GitHub Repo**: [https://github.com/bluepillapp/bluepill](https://github.com/bluepillapp/bluepill)
-- **Description**: Scribe is a project aimed at helping developers with automatic API documentation generation. It utilizes machine learning to automatically write documentation based on the codebase, saving developers valuable time and effort.
+## [Continue](https://www.continue.dev/)
+- **GitHub Repo**: [https://github.com/continuedev/continue](https://github.com/continuedev/continue)
+- **Description**: Continue is an open-source AI coding assistant that integrates language models into development environments and reflects modern AI-native software workflows.
 
-## [Autonomous Coding](https://autonomous-coding.com/)
-- **GitHub Repo**: [https://github.com/autonomous-coding/](https://github.com/autonomous-coding/)
-- **Description**: Autonomous Coding is a project that leverages AI to automatically generate code from natural language specifications. It can interpret user requirements and produce executable code, drastically simplifying the software development process.
+## [Aider](https://aider.chat/)
+- **GitHub Repo**: [https://github.com/Aider-AI/aider](https://github.com/Aider-AI/aider)
+- **Description**: Aider is an AI pair-programming tool that edits code directly in local Git repositories and has become a prominent example of AI-assisted coding practice.
+
+## [OpenHands](https://www.all-hands.dev/)
+- **GitHub Repo**: [https://github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+- **Description**: OpenHands is an open-source platform for autonomous software development agents, built around the idea of language models performing multi-step coding tasks.
+
+## [AutoGPT](https://agpt.co/)
+- **GitHub Repo**: [https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- **Description**: AutoGPT is one of the earliest widely recognized autonomous-agent projects, demonstrating AI-driven task execution and code generation workflows.
+
+## [OpenDevin](https://opendevin.github.io/)
+- **GitHub Repo**: [https://github.com/OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+- **Description**: OpenDevin is an open-source effort to build an autonomous software engineer powered by large language models.
